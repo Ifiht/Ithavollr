@@ -3,6 +3,6 @@ filename = "VanillaTea_r405654_MC121x.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uXeEiQk1/versions/oo24NnEP/tool-trims-RP-v2-2-1a.zip"
+url = "https://github.com/Ifiht/Ithavollr/raw/main/data/VanillaTea_r405654_MC121x.zip"
 hash-format = "sha256"
 hash = "3459d1969fc7ff45d13a5a8ac2d878df96d7e75a98da1bfcb5c1ffc8b647e74e"
