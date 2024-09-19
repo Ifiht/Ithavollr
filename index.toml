@@ -35,6 +35,11 @@ hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "7be37b57d8c86d7e2bb63f525a1616c9f022ac59cc748d299b6dc3fc8351945e"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "25a2d303e9492184707633a0a8e52b468eeeb17bbffe56e1b2a6d4e13ebbc3f2"
 metafile = true
@@ -53,6 +58,15 @@ metafile = true
 file = "resourcepacks/roundista.pw.toml"
 hash = "e6fb8f09b32e8d4e9871a11eaf879f64d7e6462380a3e635ef21036152264eca"
 metafile = true
+
+[[files]]
+file = "resourcepacks/tool_trims.pw.toml"
+hash = "4f733e16012b094cd72b49a18f41674340c495b9b7b2779be8955f6b08210818"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla_tweaks.toml"
+hash = "a0cc4f46880ada8164c0810d63c60adbb2743167afad1c246fac1506ab4789c4"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
