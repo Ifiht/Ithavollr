@@ -1,0 +1,8 @@
+name = "Tool Trims"
+filename = "tool-trims-RP-v2-2-1a.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uXeEiQk1/versions/oo24NnEP/tool-trims-RP-v2-2-1a.zip"
+hash-format = "sha256"
+hash = "9deef1af657b98f4b44bbbf1524288c15a99686eedb0cf36873edb29b8d4e5be"

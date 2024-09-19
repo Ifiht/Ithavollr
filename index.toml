@@ -25,8 +25,18 @@ hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "d0bdf44d0cee8f2a2727b7000ed20bbb5ce00865d2d7c43ffb0abe71191db280"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "25a2d303e9492184707633a0a8e52b468eeeb17bbffe56e1b2a6d4e13ebbc3f2"
 metafile = true
 
 [[files]]
@@ -37,4 +47,14 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "37e1423ca6fff313a3916bbc71b2f2170935e4c520fc91c461999b497f65e4fa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/roundista.pw.toml"
+hash = "e6fb8f09b32e8d4e9871a11eaf879f64d7e6462380a3e635ef21036152264eca"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "40f83616a61e0af5e807e2ef1df03958e65234d82d2ac310d9c21fd82205df02"
 metafile = true
