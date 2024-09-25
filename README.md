@@ -1,16 +1,21 @@
 # Ithavollr
-Minecraft private server modpack :basecamp:
+Minecraft private server organization repo :basecamp:  
+This repository contains the files necessary to keep clients in sync, covering mods, resource packs, and config data. It also serves to link to all the other repos that manage my PaperMC server instance.
 
-## SETUP
+## Directory
+- [Content Manager](https://github.com/Ifiht/PacMan)
+- [Data pack](https://github.com/Ifiht/Ithavollr-dpack)
+- [Resource pack](https://github.com/Ifiht/Ithavollr-dpack)
+
+## Packwiz Guide
+### Setup
 1. Import `com.unascribed.unsup.json` as a component in the Prism instance.
 2. place `unsup.ini` in the `.minecraft` folder for the instance.
 3. Run the instance.
-
-## UPDATE
+### Update
 1. `./packwiz refresh`
 2. `./packwiz update --all`
-
-## INSTALL
+### Install new content
 1. `./packwiz modrinth add <url>`
 
 ## REFERENCES
