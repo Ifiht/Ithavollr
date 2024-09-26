@@ -5,7 +5,7 @@ This repository contains the files necessary to keep clients in sync, covering m
 ## Directory
 - [Content Manager](https://github.com/Ifiht/PacMan)
 - [Data pack](https://github.com/Ifiht/Ithavollr-dpack)
-- [Resource pack](https://github.com/Ifiht/Ithavollr-dpack)
+- [Resource pack](https://github.com/Ifiht/Ithavollr-rpack)
 
 ## Packwiz Guide
 ### Setup
