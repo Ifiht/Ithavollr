@@ -18,6 +18,14 @@ This repository contains the files necessary to keep clients in sync, covering m
 ### Install new content
 1. `./packwiz modrinth add <url>`
 
-## REFERENCES
-- [unsup](https://git.sleeping.town/unascribed/unsup)
-- [packwiz](https://packwiz.infra.link/tutorials/creating/adding-mods/)
+## References
+- Tools
+  + [unsup](https://git.sleeping.town/unascribed/unsup)
+  + [packwiz](https://packwiz.infra.link/tutorials/creating/adding-mods/)
+- Shader packs
+  + [Complementary](https://modrinth.com/shader/complementary-reimagined)
+  + [Euphoria](https://modrinth.com/mod/euphoria-patches)
+- Data packs
+  + see [PacMan](https://github.com/Ifiht/PacMan)
+- Resource packs
+  + see [PacMan](https://github.com/Ifiht/PacMan)

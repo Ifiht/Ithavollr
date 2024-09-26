@@ -65,20 +65,6 @@ hash = "37e1423ca6fff313a3916bbc71b2f2170935e4c520fc91c461999b497f65e4fa"
 metafile = true
 
 [[files]]
-file = "resourcepacks/roundista.pw.toml"
-hash = "e6fb8f09b32e8d4e9871a11eaf879f64d7e6462380a3e635ef21036152264eca"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tool_trims.pw.toml"
-hash = "4f733e16012b094cd72b49a18f41674340c495b9b7b2779be8955f6b08210818"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vanilla_tweaks.toml"
-hash = "a0cc4f46880ada8164c0810d63c60adbb2743167afad1c246fac1506ab4789c4"
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
+hash = "d4460e09f92335d8f0207e7db5671df3beee77c56de17e9510e3d0422e3f96af"
 metafile = true
