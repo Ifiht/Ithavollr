@@ -65,6 +65,11 @@ hash = "37e1423ca6fff313a3916bbc71b2f2170935e4c520fc91c461999b497f65e4fa"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ithavollr.pw.toml"
+hash = "7e949a08d3eeecdbd777c0db676ee0851238b9fa0e1304a63e2dacf11c7c7980"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "d4460e09f92335d8f0207e7db5671df3beee77c56de17e9510e3d0422e3f96af"
 metafile = true
