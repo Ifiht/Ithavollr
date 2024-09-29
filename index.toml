@@ -40,6 +40,11 @@ hash = "51d0c6f1ca98b710269f464af0bd3e130c64dfd2c5fbed2b7b1f41b7cfa09b54"
 metafile = true
 
 [[files]]
+file = "mods/mod-settings.pw.toml"
+hash = "8ab43846566f21cbac9ab8304fc9364e2ce40418cc7167e3b629313fd9783b2f"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
 metafile = true
