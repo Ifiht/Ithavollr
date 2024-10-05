@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "87d9258bfab38ed6aa8352ef7d5fd02e1e867c451e612aa1536f1fbefd5db7aa"
+hash = "f79a3cdea893a12fa0955186df68681016f5b98d94d31e8ea59fa250465578f6"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "1224007002cb0a1a96828c7329e84fdaa34edaf7a4eb2a099d39555880c4ff48"
+hash = "81a0c59e2345c142bd07b2fc792ba39b7d7a0a5b0ed0b74a0ca1aca827822b1c"
 metafile = true
 
 [[files]]
