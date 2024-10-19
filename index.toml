@@ -45,11 +45,6 @@ hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
 metafile = true
 
 [[files]]
-file = "mods/mob-health-indicators.pw.toml"
-hash = "dab54907354cfb4f9586a8ce8000094f1865d51f19a9b9877705ddc62d2c6dc2"
-metafile = true
-
-[[files]]
 file = "mods/mod-settings.pw.toml"
 hash = "8ab43846566f21cbac9ab8304fc9364e2ce40418cc7167e3b629313fd9783b2f"
 metafile = true
