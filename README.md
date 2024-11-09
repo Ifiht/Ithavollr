@@ -29,3 +29,8 @@ This repository contains the files necessary to keep clients in sync, covering m
   + see [PacMan](https://github.com/Ifiht/PacMan)
 - Resource packs
   + see [PacMan](https://github.com/Ifiht/PacMan)
+- Plugins
+  + [Cardinal](https://github.com/Ifiht/Cardinal)
+  + [Lunamatic](https://github.com/Ifiht/Lunatic)
+  + [AuraMobs](https://github.com/Ifiht/AuraMobs)
+  + [AuraSkills](https://github.com/Ifiht/AuraSkills)
