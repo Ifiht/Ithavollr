@@ -6,7 +6,7 @@ hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "20fd19d17cd5436f4184105db0eb8f325ae097183f3adace1ec4981e204bbe50"
+hash = "322fd11cf2b368465e64f828f8442cbe24abd7ea069a3490ec8a0d58e46a4e5c"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
+hash = "d76381c45ede03fe1c011d878b1debb38782bdeb22149916efd725ef4fee2833"
 metafile = true
 
 [[files]]
@@ -47,11 +47,6 @@ metafile = true
 [[files]]
 file = "mods/mod-settings.pw.toml"
 hash = "8ab43846566f21cbac9ab8304fc9364e2ce40418cc7167e3b629313fd9783b2f"
-metafile = true
-
-[[files]]
-file = "mods/overflowing-bars.pw.toml"
-hash = "88c410db35e0f78c6c699dbd801215407d590b49fb3bbfd0d2094b5def538b4d"
 metafile = true
 
 [[files]]
