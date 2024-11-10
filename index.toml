@@ -30,11 +30,6 @@ hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "5ca392cf6ef19f056bd3f880f3b15322d3e327312671236737344d319d6c742b"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "d76381c45ede03fe1c011d878b1debb38782bdeb22149916efd725ef4fee2833"
 metafile = true
@@ -47,11 +42,6 @@ metafile = true
 [[files]]
 file = "mods/mod-settings.pw.toml"
 hash = "8ab43846566f21cbac9ab8304fc9364e2ce40418cc7167e3b629313fd9783b2f"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "dd4b5f371bf4737672ed5bde3a1e45690541ab23cc32236ca2019aba603e51d2"
 metafile = true
 
 [[files]]
