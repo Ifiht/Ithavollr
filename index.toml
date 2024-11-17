@@ -6,7 +6,7 @@ hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "322fd11cf2b368465e64f828f8442cbe24abd7ea069a3490ec8a0d58e46a4e5c"
+hash = "6cc53611899ef65d2c4385d1fe5abcf92b5afac1448ec468383939685f6db42a"
 metafile = true
 
 [[files]]
@@ -26,17 +26,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
+hash = "f99dbd4783dd58e213fcccc0a4cb7f6aae01ea06d3e02b37f76ad9d1fc5f867f"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d76381c45ede03fe1c011d878b1debb38782bdeb22149916efd725ef4fee2833"
+hash = "ef19c1c85edcb9a19dc784c264497f6191579942b63e6343daaf6c9cdd9a3b78"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
+hash = "680f4d24e4ec78ed0ebaa0d71b6b721a7c2f86bc68de74c9f7573a670f93dcaa"
 metafile = true
 
 [[files]]
@@ -46,12 +46,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9bdcdf6050b27b23f7f575d958c4efb4fb54b92b833934807ac86ce1463f3504"
+hash = "b4dd4bdea5b9f69e842f0096feb79d3bd2635de2ea2b68a0ff2e158acaf9d4a4"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6c1e39822b75339afddef8504a135345c119de71004ca135c442eeea4088d475"
+hash = "11e2d2257d15509f1acffb9945c0a85f35ddffbf6877b8ab8ff21414f0f3caff"
 metafile = true
 
 [[files]]
