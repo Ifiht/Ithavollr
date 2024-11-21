@@ -19,18 +19,23 @@ This repository contains the files necessary to keep clients in sync, covering m
 1. `./packwiz modrinth add <url>`
 
 ## References
+- Server
+  + [Cellulose](https://github.com/Ifiht/Cellulose): WIP!! PaperMC fork aimed at adding new content/bug fixes.
 - Tools
-  + [unsup](https://git.sleeping.town/unascribed/unsup)
-  + [packwiz](https://packwiz.infra.link/tutorials/creating/adding-mods/)
+  + [unsup](https://git.sleeping.town/unascribed/unsup): Handles synchronization of all client environments.
+  + [packwiz](https://packwiz.infra.link/tutorials/creating/adding-mods/): Organize and update client modifications. Syncs via unsup.
 - Shader packs
-  + [Complementary](https://modrinth.com/shader/complementary-reimagined)
-  + [Euphoria](https://modrinth.com/mod/euphoria-patches)
+  + [Complementary](https://modrinth.com/shader/complementary-reimagined): Best shader pack out there.
+  + [Euphoria](https://modrinth.com/mod/euphoria-patches): Adds useful options to Complementary.
 - Data packs
-  + see [PacMan](https://github.com/Ifiht/PacMan)
+  + see [PacMan](https://github.com/Ifiht/PacMan): Merges all data packs into one monolithic pack for the server.
 - Resource packs
-  + see [PacMan](https://github.com/Ifiht/PacMan)
+  + see [PacMan](https://github.com/Ifiht/PacMan): Merges all resource packs into one monolithic pack for the client.
 - Plugins
-  + [Cardinal](https://github.com/Ifiht/Cardinal)
-  + [Lunamatic](https://github.com/Ifiht/Lunatic)
-  + [AuraMobs](https://github.com/Ifiht/AuraMobs)
-  + [AuraSkills](https://github.com/Ifiht/AuraSkills)
+  + [AuraMobs](https://github.com/Ifiht/AuraMobs): Scales mobs based off player levels and distance from spawn.1
+  + [AuraSkills](https://github.com/Ifiht/AuraSkills): Allows RPG-like growth.
+  + [Cardinal](https://github.com/Ifiht/Cardinal): Coordination & execution of all Ithavollr-specific functions.
+  + [ChestSort](https://github.com/Ifiht/ChestSort): Auto-sort chests and inventory.
+  + [Citizans](https://github.com/Ifiht/Citizens2.5): NPC implementation & API. Accessed via Cardinal
+  + [Lunamatic](https://github.com/Ifiht/Lunatic): Nice effects & mechanics for full & new moons.
+  + [OpeNLogin](https://github.com/Ifiht/OpeNLogin): Login manager revamped for Ithavollr.
