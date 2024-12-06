@@ -3,6 +3,6 @@ filename = "Ithavollr_Resources.zip"
 side = "client"
 
 [download]
-url = "https://github.com/Ifiht/Ithavollr/raw/main/data/Ithavollr_rpack_3e8d688.zip"
+url = "https://github.com/Ifiht/Ithavollr/raw/main/data/Ithavollr_rpack-2b6db4f.zip"
 hash-format = "sha256"
-hash = "1bf651c0ffba0c052ed2170686d7c621d6f3b5f5025570c6e44d93f93bb494ff"
+hash = "8a2ed5baa423ddda2edc039e4152ee863cf494b1a65104dc1feb0b6263d1797b"
