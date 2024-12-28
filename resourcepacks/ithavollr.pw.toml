@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://github.com/Ifiht/Ithavollr/raw/main/data/Ithavollr_rpack-bb658db.zip"
 hash-format = "sha256"
-hash = "61f50fb9ce88216b44e93794c84477f0cf9b952cb5d39be638cc0d790fb985d8"
+hash = "3ac096d9ecb28740b80d6e21b61ef2aa9e3e2d881734830bb4883196f4db1071"
