@@ -32,10 +32,4 @@ This repository contains the files necessary to keep clients in sync, covering m
 - Resource packs
   + see [PacMan](https://github.com/Ifiht/PacMan): Merges all resource packs into one monolithic pack for the client.
 - Plugins
-  + [AuraMobs](https://github.com/Ifiht/AuraMobs): Scales mobs based off player levels and distance from spawn.1
-  + [AuraSkills](https://github.com/Ifiht/AuraSkills): Allows RPG-like growth.
-  + [Cardinal](https://github.com/Ifiht/Cardinal): Coordination & execution of all Ithavollr-specific functions.
-  + [ChestSort](https://github.com/Ifiht/ChestSort): Auto-sort chests and inventory.
-  + [Citizans](https://github.com/Ifiht/Citizens2.5): NPC implementation & API. Accessed via Cardinal
-  + [Lunamatic](https://github.com/Ifiht/Lunatic): Nice effects & mechanics for full & new moons.
-  + [OpeNLogin](https://github.com/Ifiht/OpeNLogin): Login manager revamped for Ithavollr.
+  + [Cardinal](https://github.com/Ifiht/Cardinal): Master plugin for Ithavollr. All other plugins are organized under its hierarchy.
