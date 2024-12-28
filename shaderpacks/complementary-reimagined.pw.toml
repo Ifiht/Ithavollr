@@ -1,8 +1,0 @@
-name = "Complementary Shaders - Reimagined + Euphoria Patched"
-filename = "ComplementaryReimagined_r5-3+EuphoriaPatches_1-4-1.zip"
-side = "client"
-
-[download]
-url = "https://github.com/Ifiht/Ithavollr/raw/main/data/ComplementaryReimagined_r5-3+EuphoriaPatches_1-4-1.zip"
-hash-format = "sha256"
-hash = "0c6e1488cf5c906b349cff22c6e0b1e7693aa1114017c56fa1b7ed270b6f8e02"

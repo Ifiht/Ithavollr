@@ -93,10 +93,9 @@ hash = "117a493b0a149d7ca6612b6d9cc2074404c469f38029b63c30c226b5ccbc0ae1"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5-3+EuphoriaPatches_1-4-1.zip.txt"
-hash = "b64907958027ead3c551a6dab3b378e9fee0b958f77a3ce41533cba4ca31236f"
+file = "shaderpacks/CompReimi_r53_EuphiPatch_141.zip"
+hash = "0c6e1488cf5c906b349cff22c6e0b1e7693aa1114017c56fa1b7ed270b6f8e02"
 
 [[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "d4460e09f92335d8f0207e7db5671df3beee77c56de17e9510e3d0422e3f96af"
-metafile = true
+file = "shaderpacks/CompReimi_r53_EuphiPatch_141.zip.txt"
+hash = "b64907958027ead3c551a6dab3b378e9fee0b958f77a3ce41533cba4ca31236f"
