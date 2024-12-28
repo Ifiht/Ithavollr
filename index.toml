@@ -5,6 +5,14 @@ file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
+file = "config/iris.properties"
+hash = "bff41d34c85cc1112efbeaceee952a39b7f4d3a4107accac98fcef8995f9337f"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "23aaee9c7ca3a8d326235ffa8f7136894735110d51e1f3d4a1ae8b2cb1753832"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6cc53611899ef65d2c4385d1fe5abcf92b5afac1448ec468383939685f6db42a"
 metafile = true
@@ -81,8 +89,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ithavollr.pw.toml"
-hash = "696ec708b0788fee5b3f9a13593edd954af53a6a714fb7fa7168768dee8b977b"
+hash = "c4cdf44f19b6ce25970b582851bb728a6b2bce0baed219748f333746c0a77c6a"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5-3+EuphoriaPatches_1-4-1.zip.txt"
+hash = "b64907958027ead3c551a6dab3b378e9fee0b958f77a3ce41533cba4ca31236f"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
