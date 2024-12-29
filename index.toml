@@ -6,7 +6,7 @@ hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
 file = "config/iris.properties"
-hash = "bff41d34c85cc1112efbeaceee952a39b7f4d3a4107accac98fcef8995f9337f"
+hash = "60a8200d5448b30dd6d2d966308f2213f19cd7c46c9b4975261ecc2bab4dcf44"
 
 [[files]]
 file = "config/sodium-options.json"
