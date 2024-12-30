@@ -13,6 +13,10 @@ file = "config/sodium-options.json"
 hash = "23aaee9c7ca3a8d326235ffa8f7136894735110d51e1f3d4a1ae8b2cb1753832"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "ad88bc359ce2b4bbdd458a01e6f3723e713c4c284ad52877450d8c2638389030"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "81f72955e64568bc01f7a22015c32706badfb52ec7f094b392b0a8722aef837e"
 metafile = true
