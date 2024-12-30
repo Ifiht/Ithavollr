@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
+file = "config/entity_texture_features.json"
+hash = "b0d5dfacc3acbca806730f3300f2a63e809d99df7dd8eec4d6326efe6e7dfc00"
+
+[[files]]
 file = "config/iris.properties"
 hash = "60a8200d5448b30dd6d2d966308f2213f19cd7c46c9b4975261ecc2bab4dcf44"
 
@@ -108,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Ithavollr_rpack.zip"
-hash = "21e6c5a072a36e6d53496d44c7e31caff38b61d9e3147f6f873a3f436b4a51e3"
+hash = "a56a9a276ab01e9b6cc04f31d35440ac855ce3611617a03da5daeeb12d05a12a"
 
 [[files]]
 file = "shaderpacks/CompReimi_r53_EuphiPatch_141.zip"
