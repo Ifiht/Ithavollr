@@ -88,8 +88,8 @@ hash = "7bf3eeb3aa4a6520153143deaabfd71ee8df80080409ca6787e10d6df2e9a6f6"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Ithavollr_rpack-bb658db.zip"
-hash = "3ac096d9ecb28740b80d6e21b61ef2aa9e3e2d881734830bb4883196f4db1071"
+file = "resourcepacks/Ithavollr_rpack.zip"
+hash = "5b373e8a4aa941e6446ed80a8793d56e8f01586c7268a51321f60c8489b6f74e"
 
 [[files]]
 file = "shaderpacks/CompReimi_r53_EuphiPatch_141.zip"
