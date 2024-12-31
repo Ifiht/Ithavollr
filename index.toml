@@ -111,8 +111,9 @@ hash = "7bf3eeb3aa4a6520153143deaabfd71ee8df80080409ca6787e10d6df2e9a6f6"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Ithavollr_rpack.zip"
-hash = "ebff3eab305c2dd5a1283e854de1db5db0c391241b9ee67d5a6d1cf3e6bbb685"
+file = "resourcepacks/ithavollr-rpack.pw.toml"
+hash = "5d1738033fae560072ae52684cc36cd8c9b866e8776afe1735cabe5c876f8181"
+metafile = true
 
 [[files]]
 file = "shaderpacks/CompReimi_r53_EuphiPatch_141.zip"
@@ -120,4 +121,4 @@ hash = "0c6e1488cf5c906b349cff22c6e0b1e7693aa1114017c56fa1b7ed270b6f8e02"
 
 [[files]]
 file = "shaderpacks/CompReimi_r53_EuphiPatch_141.zip.txt"
-hash = "71a68c52b4c513e00c386f362deed40f0413087f6943c485be6e653a8c6416cf"
+hash = "1cce809f430ccf6d0d9d65d6f673a93a505baa0cba6099730e600b4ef8df11d9"
