@@ -1,12 +1,12 @@
 name = "Runestones"
 author = "Ifiht"
-version = "2.2.2"
+version = "2.2.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d217393772a25274534a5864ec3fba42b47b1dafdf0853ebdb3430d23176cb09"
+hash = "b633a2680c1a083a000bc688f548307fc7c4446700db0efc55794d5218bca0df"
 
 [versions]
 fabric = "0.16.5"
