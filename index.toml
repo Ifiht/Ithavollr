@@ -13,6 +13,10 @@ file = "config/iris.properties"
 hash = "60a8200d5448b30dd6d2d966308f2213f19cd7c46c9b4975261ecc2bab4dcf44"
 
 [[files]]
+file = "config/mobplaques-client.toml"
+hash = "7e15de81ac8873c218c72bdad58e88c8a9d75ccaf80f5056f187df0beb8fecdf"
+
+[[files]]
 file = "config/sodium-options.json"
 hash = "23aaee9c7ca3a8d326235ffa8f7136894735110d51e1f3d4a1ae8b2cb1753832"
 
