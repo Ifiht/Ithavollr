@@ -66,6 +66,11 @@ hash = "e0060dd5608032c12619d942e2004f7a1635ebadaef3b928445d2211f082f01f"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
 metafile = true
@@ -76,8 +81,23 @@ hash = "9063468d0321798591d5e83044d7e841538b0a6ce8e38a78d415a2461708f45f"
 metafile = true
 
 [[files]]
+file = "mods/mob-plaques.pw.toml"
+hash = "a77bef03d6a8fde6d85dcc5997cb8df3f3f95561c71697f22c3ef649ed7ead9c"
+metafile = true
+
+[[files]]
 file = "mods/mod-settings.pw.toml"
 hash = "8ab43846566f21cbac9ab8304fc9364e2ce40418cc7167e3b629313fd9783b2f"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "88c410db35e0f78c6c699dbd801215407d590b49fb3bbfd0d2094b5def538b4d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6384738e3dc61bf6222883b9582d7060e051387748b814045823a2e1426bef43"
 metafile = true
 
 [[files]]
