@@ -20,7 +20,7 @@ This repository contains the files necessary to keep clients in sync, covering m
 
 ## References
 - Server
-  + [Cellulose](https://github.com/Ifiht/Cellulose): WIP!! PaperMC fork aimed at adding new content/bug fixes.
+  + [Aincrad](https://github.com/Ifiht/Aincrad): WIP!! PaperMC fork aimed at adding new content/bug fixes.
 - Tools
   + [unsup](https://git.sleeping.town/unascribed/unsup): Handles synchronization of all client environments.
   + [packwiz](https://packwiz.infra.link/tutorials/creating/adding-mods/): Organize and update client modifications. Syncs via unsup.
