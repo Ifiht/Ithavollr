@@ -1,4 +1,4 @@
-# Ithavollr
+# Iðavöllr
 Minecraft private server organization repo :basecamp:  
 This repository contains the files necessary to keep clients in sync, covering mods, resource packs, and config data. It also serves to link to all the other repos that manage my PaperMC server instance.
 
