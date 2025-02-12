@@ -18,6 +18,9 @@ This repository contains the files necessary to keep clients in sync, covering m
 ### Install new content
 1. `./packwiz modrinth add <url>`
 
+## TO-DO:
+[ ] - Add back [RP-Renames](https://modrinth.com/mod/rp-renames) for 1.21.4 when available
+
 ## References
 - Server
   + [Aincrad](https://github.com/Ifiht/Aincrad): WIP!! PaperMC fork aimed at adding new content/bug fixes.

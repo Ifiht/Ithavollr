@@ -105,11 +105,6 @@ hash = "361de3c60e8a8f7d4e0d05542f6589e1bd0983498c68f0b86a82f93fc441923b"
 metafile = true
 
 [[files]]
-file = "mods/rp-renames.pw.toml"
-hash = "611410b3e6491e22d4b6d26ec4e27cb6bb82f371ef46b907e0e9fed26489e771"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
 metafile = true
