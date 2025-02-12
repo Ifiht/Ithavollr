@@ -1,16 +1,16 @@
 name = "Runestones"
 author = "Ifiht"
-version = "2.3.7"
+version = "2.3.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c039086f0408867d31d53790230f3afb7c4f0d8ff2ac11a8c7db0a2790950390"
+hash = "d53a768e853782304e00d7323fa06acd1b04a820d42c69b999f3a71dfb2834bb"
 
 [versions]
-fabric = "0.16.5"
-minecraft = "1.21.1"
+fabric = "0.16.10"
+minecraft = "1.21.4"
 
 [options]
-acceptable-game-versions = ["1.21", "1.21.1"]
+acceptable-game-versions = ["1.21.4"]

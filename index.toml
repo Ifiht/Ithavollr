@@ -14,7 +14,7 @@ hash = "60a8200d5448b30dd6d2d966308f2213f19cd7c46c9b4975261ecc2bab4dcf44"
 
 [[files]]
 file = "config/mobplaques-client.toml"
-hash = "4ea715831acbe0385bac0a963edc2cce2aa8c244bc8838c780bd415e611b56d5"
+hash = "02ec576450fd20d6f3f3fa75701e2c4355af1fbfd870066fae2b32327f6b0c62"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -22,16 +22,16 @@ hash = "23aaee9c7ca3a8d326235ffa8f7136894735110d51e1f3d4a1ae8b2cb1753832"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "ad88bc359ce2b4bbdd458a01e6f3723e713c4c284ad52877450d8c2638389030"
+hash = "04dde5eea631d138940e3a98c42cbc27bb6c971b7a18722b2229b9f5a893571a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "81f72955e64568bc01f7a22015c32706badfb52ec7f094b392b0a8722aef837e"
+hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
 metafile = true
 
 [[files]]
@@ -51,42 +51,42 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "6e046a0ced37b978d8bf74aa48653822489348c2e65d33e40b93be55763c983f"
+hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "53961f9af9c645de525e0598f3f1c5cb0ebc81f98c6b17a479ccc1b9f851a593"
+hash = "49f8089d53aa0e40f6b9551e7931d4f502faf07f0c72fb7e1d6d8bc471a09482"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d41804aff0c09612645047b2e53bfd88a018deaa7e4ad17d6656dd67e0af2a83"
+hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7bac418be4f003dc98ecacaac516120320f02f3eceef0541989bc98f89fc8608"
+hash = "0ed5ad630aabb0c3ca89f413a6dba81734e378e8bc825b7d8ca0f9349d7d0b27"
 metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
+hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
+hash = "82e7a1244febc6b4699e17bcee523567efc9c8c005d67057f9c4c40e7fba2a5a"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "bc213d7a99082681c3b76ec0a08d2c7b697eff9327c314497b52e64bc7d9d78d"
+hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
 metafile = true
 
 [[files]]
 file = "mods/mob-plaques.pw.toml"
-hash = "a77bef03d6a8fde6d85dcc5997cb8df3f3f95561c71697f22c3ef649ed7ead9c"
+hash = "8ee421aa98eb39cebb99d77fe2eb1df832a855f5fd5f7444a7eb851a86b80337"
 metafile = true
 
 [[files]]
@@ -96,12 +96,12 @@ metafile = true
 
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
-hash = "88c410db35e0f78c6c699dbd801215407d590b49fb3bbfd0d2094b5def538b4d"
+hash = "7fd4882592d88ed3d0f5de1a07332097913b4c4ad0df4caedd40917108de4acd"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9cd1f164764a1ad176682b8d57815c7c0b8dc5f837c542d42bc1192aec33ff83"
+hash = "361de3c60e8a8f7d4e0d05542f6589e1bd0983498c68f0b86a82f93fc441923b"
 metafile = true
 
 [[files]]
@@ -111,27 +111,27 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "31824b27e7cfef5ff4091fdb37cce9e42be93dbbef6610874ed7b7158d44fd08"
+hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
+hash = "bccd06a5e9fee3d41ceb1c3746619be49182cc5be4fa9ea271158245e91f5061"
 metafile = true
 
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
-hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
+hash = "8ee85cf9163551e114d900f00a24849ea55d915b30143b778f8125baa792d6da"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "83d2b81250708266abe1d8e41d07d7b6e5a27a49062789491d2855d67cc94e12"
+hash = "d0fa739c00e5d19006656477dbf2906f63ae94c093926fb71a54d35a324d8feb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7bf3eeb3aa4a6520153143deaabfd71ee8df80080409ca6787e10d6df2e9a6f6"
+hash = "5f8545851fde0b0f0bf9a478d7cb82c7b921e8288638b7ed16b1bfb3f752e95b"
 metafile = true
 
 [[files]]
