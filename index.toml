@@ -5,6 +5,18 @@ file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
+file = "bin/packwiz_linux"
+hash = "f50f7caee7c3c3bcecbc2a650356b83b163a0b18c6a7f02efbd505d8fa4e0fe2"
+
+[[files]]
+file = "bin/packwiz_mac"
+hash = "b041781d6044d31b277e2588141720708440a7027bb9f3d4677c31f5593aab45"
+
+[[files]]
+file = "bin/packwiz_win.exe"
+hash = "ab014320c84aa37d0d6901186f4a723fcbc60a6208d3c9f1f039d510eae8554a"
+
+[[files]]
 file = "config/entity_texture_features.json"
 hash = "b0d5dfacc3acbca806730f3300f2a63e809d99df7dd8eec4d6326efe6e7dfc00"
 
@@ -135,11 +147,11 @@ hash = "3ab57a6894391f5ef0f1c73db4a2de18c97ea9631ea65792c50877ffb9223460"
 metafile = true
 
 [[files]]
-file = "shaderpacks/CompReimi_r53_EuphiPatch_141.zip"
-hash = "0c6e1488cf5c906b349cff22c6e0b1e7693aa1114017c56fa1b7ed270b6f8e02"
+file = "shaderpacks/CompReimi_r54_EuphiPatch_152.zip"
+hash = "6dce565361fff50450d663f3e34b05a8f4b2cdf094b520e6e96842d2ba07a22e"
 
 [[files]]
-file = "shaderpacks/CompReimi_r53_EuphiPatch_141.zip.txt"
+file = "shaderpacks/CompReimi_r54_EuphiPatch_152.zip.txt"
 hash = "1cce809f430ccf6d0d9d65d6f673a93a505baa0cba6099730e600b4ef8df11d9"
 
 [[files]]
