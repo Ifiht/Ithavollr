@@ -115,11 +115,6 @@ hash = "8ee85cf9163551e114d900f00a24849ea55d915b30143b778f8125baa792d6da"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "9325b307b5396a19c7cb40298491652770c37c4d52c2993474f7916aee970c55"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2c4a9d332322cfb1234c8b90f474b5b23ae487c706b7e1e00a0dc7dcf53bb306"
 metafile = true
@@ -135,7 +130,7 @@ hash = "0c6e1488cf5c906b349cff22c6e0b1e7693aa1114017c56fa1b7ed270b6f8e02"
 
 [[files]]
 file = "shaderpacks/CompReimi_r53_EuphiPatch_141.zip.txt"
-hash = "1cce809f430ccf6d0d9d65d6f673a93a505baa0cba6099730e600b4ef8df11d9"
+hash = "b3968bcbc99846a95d8bb62531a2113d1a1128a268c802fd0ebb83fdd8a3cf68"
 
 [[files]]
 file = "update_rpack.sh"
