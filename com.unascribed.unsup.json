@@ -5,7 +5,7 @@
 	"version": "0.3.0-pre6",
 	"+agents": [
 		{
-			"name": "com.unascribed:unsup:0.2.3",
+			"name": "com.unascribed:unsup:0.3.0-pre6",
 			"url": "https://repo.sleeping.town"
 		}
 	]
