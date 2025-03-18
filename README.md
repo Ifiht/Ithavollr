@@ -15,6 +15,10 @@ This repository contains the files necessary to keep clients in sync, covering m
 ### Update
 1. `./packwiz refresh`
 2. `./packwiz update --all`
+### Update _Resource Pack_
+1. Upload resource pack zip from PacMan actions to PacMan releases.
+2. execute `./update_rpack.sh <URL>`, where URL is the link to the zip in the release.
+3. remove the old toml file.
 ### Install new content
 1. `./packwiz modrinth add <url>`
 
