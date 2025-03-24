@@ -1,6 +1,6 @@
 # Iðavöllr
-Minecraft private server organization repo :basecamp: __v1.21.4__
-This repository contains the files necessary to keep clients in sync, covering mods, resource packs, and config data. It also serves to link to all the other repos that manage my PaperMC server instance.
+Minecraft private server organization repo :basecamp: __v1.21.4__  
+This repository contains the files necessary to keep clients in sync, covering mods, resource packs, and config data. It also serves to link to all the other code repos that manage my [PaperMC](https://github.com/PaperMC/Paper) server instance.
 
 ## Directory
 - [Content Manager](https://github.com/Ifiht/PacMan)
