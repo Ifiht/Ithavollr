@@ -1,5 +1,5 @@
 # Iðavöllr
-Minecraft private server organization repo :basecamp:  
+Minecraft private server organization repo :basecamp: __v1.21.4__
 This repository contains the files necessary to keep clients in sync, covering mods, resource packs, and config data. It also serves to link to all the other repos that manage my PaperMC server instance.
 
 ## Directory
@@ -21,6 +21,10 @@ This repository contains the files necessary to keep clients in sync, covering m
 3. remove the old toml file.
 ### Install new content
 1. `./packwiz modrinth add <url>`
+
+## TO-DO:
+[ ] - Add back [RP-Renames](https://modrinth.com/mod/rp-renames) for 1.21.4 when available
+
 
 ## References
 - Server
