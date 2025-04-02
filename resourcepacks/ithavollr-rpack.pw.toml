@@ -3,6 +3,6 @@ filename = "Ithavollr_rpack.zip"
 side = "client"
 
 [download]
-url = "https://github.com/Ifiht/PacMan/releases/download/v2.3.7/Ithavollr_rpack-79839ab.zip"
+url = "https://github.com/Ifiht/PacMan/releases/download/v2.3.8/Ithavollr_rpack-fc25222.zip"
 hash-format = "sha256"
-hash = "d9b361bc91b19acf48513ed704e92596649fb3cd3e89f132241e0d6a628732df"
+hash = "3d01c5a23af67f6889f7f232627e6e7a7d0e3964362c69f4747e6055c4fffd58"

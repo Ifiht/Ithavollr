@@ -26,7 +26,7 @@ hash = "04dde5eea631d138940e3a98c42cbc27bb6c971b7a18722b2229b9f5a893571a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
+hash = "f535691eee4ea23eefb9e606b1fe2085f6dad8dab4c6bd3581ba9106a608ad8b"
 metafile = true
 
 [[files]]
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c666d4a01300098976b31693779d4f6130e939a6275823f0e8995921401d65a8"
+hash = "a63069aac3fc618562c8f4fa4f76e0bd3625a90f53d1dc3ff4974862d54dde20"
 metafile = true
 
 [[files]]
@@ -96,12 +96,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "51bd7e107aa83b794b184e71bec88976aeb4ee4c8b6cb101c8c71a24ce23f1c9"
+hash = "cdff637d469d95a02e8e7475fce950c0d25bdacf8ae1246c93eea78ad7e16d39"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8ff792fd5c8d9225709b317b49cc741233bfa6958f27edd8a2c8da50b4ff34fd"
+hash = "4b8f88d21be88fc7f51be5acad184c2d3a86474a8d8673fc3fc67e0bb2d4fc7b"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ithavollr-rpack.pw.toml"
-hash = "46ab005aed905ec2867d9b2ce0dca91b6da634600e8c3ab00f2d822771c767e1"
+hash = "af017208b2c5e0f1814716cc36a9434a4b3272376183e1ae40c28c1951302e3f"
 metafile = true
 
 [[files]]
