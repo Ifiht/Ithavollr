@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "60409d6ffae121a264fab9ff5e1a5e79fe5db4c8ec4d846a989e8ebf89f652bf"
+
+[[files]]
 file = "config/entity_texture_features.json"
 hash = "b0d5dfacc3acbca806730f3300f2a63e809d99df7dd8eec4d6326efe6e7dfc00"
 
@@ -125,9 +129,8 @@ hash = "2c4a9d332322cfb1234c8b90f474b5b23ae487c706b7e1e00a0dc7dcf53bb306"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ithavollr-rpack.pw.toml"
-hash = "af017208b2c5e0f1814716cc36a9434a4b3272376183e1ae40c28c1951302e3f"
-metafile = true
+file = "resourcepacks/Ithavollr_rpack.zip"
+hash = "b9d0400442efc184996ff6d957cfa54a268063a461fa58c8cf263d6359aead45"
 
 [[files]]
 file = "shaderpacks/CompReimi_r53_EuphiPatch_141.zip"

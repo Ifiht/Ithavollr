@@ -1,8 +1,0 @@
-name = "ithavollr_rpack"
-filename = "Ithavollr_rpack.zip"
-side = "client"
-
-[download]
-url = "https://github.com/Ifiht/PacMan/releases/download/v2.3.8/Ithavollr_rpack-fc25222.zip"
-hash-format = "sha256"
-hash = "3d01c5a23af67f6889f7f232627e6e7a7d0e3964362c69f4747e6055c4fffd58"
