@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "d5ef72587567e1854f68fffdb52ff653d110e7c1bc6633766e75cc8b01137a5d"
+hash = "98fe6a867fdbf83d592929febec172ed64817126808306b842189b530021beed"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "974a2f4fd6bff1195c326696fa9e246c3b6820ae0fefe96a011bef4e6912e43f"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
+hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
@@ -127,6 +127,10 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2c4a9d332322cfb1234c8b90f474b5b23ae487c706b7e1e00a0dc7dcf53bb306"
 metafile = true
+
+[[files]]
+file = "osx_packwiz"
+hash = "b041781d6044d31b277e2588141720708440a7027bb9f3d4677c31f5593aab45"
 
 [[files]]
 file = "resourcepacks/Ithavollr_rpack.zip"
