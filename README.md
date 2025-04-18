@@ -21,6 +21,9 @@ This repository contains the files necessary to keep clients in sync, covering m
 3. remove the old toml file.
 ### Install new content
 1. `./packwiz modrinth add <url>`
+### Pin/Unip
+1. `./packwiz pin <mod>`, where `<mod>` is unintuitively ONLY the base name (e.g. "sodium")
+2. `./packwiz unpin <mod>`
 
 ## TO-DO:
 [ ] - Add back [RP-Renames](https://modrinth.com/mod/rp-renames) for 1.21.4 when available
