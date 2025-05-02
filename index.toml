@@ -105,12 +105,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4b8f88d21be88fc7f51be5acad184c2d3a86474a8d8673fc3fc67e0bb2d4fc7b"
+hash = "fdc2b264bfae9dbef68222edc1c220708df9ecc9bb8fa74b79ce1ebab6fe5355"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "255381ac3384a140cead53e14e0d589a702d279d053f6843f284a229e89a38d2"
+hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
@@ -133,8 +133,8 @@ file = "resourcepacks/Ithavollr_rpack.zip"
 hash = "aa696ff06b30d4cbdb9cef9dfd2f0798ba31fb5e068706e6bd2d24ab3f3cc273"
 
 [[files]]
-file = "shaderpacks/CompReimi_r53_EuphiPatch_141.zip"
-hash = "0c6e1488cf5c906b349cff22c6e0b1e7693aa1114017c56fa1b7ed270b6f8e02"
+file = "shaderpacks/CompReimi_EuphiPatch.zip"
+hash = "2e0bfef00c0db500ce9dd07a8fe45af12fbb2be7cf8c601e4e9a590af95b2c18"
 
 [[files]]
 file = "shaderpacks/CompReimi_r53_EuphiPatch_141.zip.txt"
