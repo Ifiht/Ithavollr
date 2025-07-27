@@ -94,6 +94,11 @@ hash = "8ab43846566f21cbac9ab8304fc9364e2ce40418cc7167e3b629313fd9783b2f"
 metafile = true
 
 [[files]]
+file = "mods/modflared.pw.toml"
+hash = "349d55d7426c1a1c0ed2c27892521b04c13ccb86ffe2a929d5184559531546f8"
+metafile = true
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "7fd4882592d88ed3d0f5de1a07332097913b4c4ad0df4caedd40917108de4acd"
 metafile = true
