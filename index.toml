@@ -145,7 +145,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Ithavollr_rpack.zip"
-hash = "aa696ff06b30d4cbdb9cef9dfd2f0798ba31fb5e068706e6bd2d24ab3f3cc273"
+hash = "413f23c53f652ae1183ff2451f69c97f65f254d6ef2030124024284776aeb2cc"
+
+[[files]]
+file = "resourcepacks/Ithavollr_rpack.zip:Zone.Identifier"
+hash = "810e3f70c56a558e6117d3e562de06eff6b1a31a0a49db0d895ed757b15aa122"
 
 [[files]]
 file = "shaderpacks/CompReimi_EuphiPatch.zip"
