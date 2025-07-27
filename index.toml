@@ -148,10 +148,6 @@ file = "resourcepacks/Ithavollr_rpack.zip"
 hash = "413f23c53f652ae1183ff2451f69c97f65f254d6ef2030124024284776aeb2cc"
 
 [[files]]
-file = "resourcepacks/Ithavollr_rpack.zip:Zone.Identifier"
-hash = "810e3f70c56a558e6117d3e562de06eff6b1a31a0a49db0d895ed757b15aa122"
-
-[[files]]
 file = "shaderpacks/CompReimi_EuphiPatch.zip"
 hash = "2e0bfef00c0db500ce9dd07a8fe45af12fbb2be7cf8c601e4e9a590af95b2c18"
 
